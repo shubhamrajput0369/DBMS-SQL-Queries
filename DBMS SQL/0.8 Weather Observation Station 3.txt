@@ -1,0 +1,4 @@
+// Author: Shubham Bhagwansing Rajput
+// SQL
+
+SELECT DISTINCT CITY FROM STATION WHERE MOD(ID,2)=0;
