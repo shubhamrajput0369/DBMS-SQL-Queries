@@ -1,4 +1,4 @@
 // Author: Shubham Bhagwansing Rajput
-
+// SQL
 
 SELECT * FROM CITY WHERE ID=1661;
