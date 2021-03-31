@@ -1,2 +1,4 @@
 // Author: Shubham Bhagwansing Rajput
 // SQL
+
+SELECT NAME FROM CITY WHERE COUNTRYCODE = 'JPN';
